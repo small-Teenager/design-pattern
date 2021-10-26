@@ -1,4 +1,4 @@
-package factory.service;
+package factory.simple.service;
 
 /**
  * @description:
@@ -6,7 +6,7 @@ package factory.service;
  * @date: 2021/10/25 11:32
  * 工厂模式
  */
-public class FactoryTest {
+public class FactoryDemo {
 
     public static void main(String args[]) {
         MusicFactory musicFactory = new MusicFactory();

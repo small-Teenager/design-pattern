@@ -1,8 +1,8 @@
-package factory.service;
+package factory.simple.service;
 
-import factory.service.impl.KuGouMusic;
-import factory.service.impl.QQMusic;
-import factory.service.impl.WYYMusic;
+import factory.simple.service.impl.KuGouMusic;
+import factory.simple.service.impl.QQMusic;
+import factory.simple.service.impl.WYYMusic;
 
 /**
  * @description:

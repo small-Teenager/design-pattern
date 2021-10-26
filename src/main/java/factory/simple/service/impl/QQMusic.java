@@ -1,6 +1,6 @@
-package factory.service.impl;
+package factory.simple.service.impl;
 
-import factory.service.Music;
+import factory.simple.service.Music;
 
 /**
  * @description:
